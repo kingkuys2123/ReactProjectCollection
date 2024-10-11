@@ -1,0 +1,82 @@
+body {
+    background-image: url("./resources/background.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+    height: auto;
+    width: auto;
+}
+
+.area-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cutie {
+    width: 25%;
+    position: absolute;
+    top: 39%;
+    z-index: 1;
+    transition: transform 0.01s ease-in-out;
+}
+
+.area {
+    width: 25%;
+    position: absolute;
+    top: 50%;
+    left: 40%; /* Adjust this value to move the area to the left */
+}
+
+.health-bar-container {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    width: 200px;
+    height: 20px;
+    background-color: red;
+    border: 2px solid black;
+  }
+  
+  .health-bar {
+    height: 100%;
+    background-color: green;
+  }
+
+  .game-over {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+  
+  .game-over h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .game-over button {
+    background-color: #ff4c4c;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1em;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .game-over button:hover {
+    background-color: #ff1c1c;
+  }
+
+  .bullet {
+    width: 75px; /* Adjust the width as needed */
+    height: 75px; /* Adjust the height as needed */
+  }
