@@ -22,15 +22,15 @@
 
 ## Projects
 
-1. My First App
-2. Color Sequence
-3. Task Queue
-4. Random Color Counter
-5. Jeepney Route
-6. Three Cards
-7. Cutie Patootie
-8. Complete The Lyrics
-9. Forms
+1. [My First App](https://github.com/kingkuys2123/ReactProjectCollection/tree/main/my-first-app)
+2. [Color Sequence](https://github.com/kingkuys2123/ReactProjectCollection/tree/main/color-sequence)
+3. [Task Queue](https://github.com/kingkuys2123/ReactProjectCollection/tree/main/task-qeueu)
+4. [Random Color Counter](https://github.com/kingkuys2123/ReactProjectCollection/tree/main/random-color-counter)
+5. [Jeepney Route](https://github.com/kingkuys2123/ReactProjectCollection/tree/main/jeepney-route)
+6. [Three Cards](https://github.com/kingkuys2123/ReactProjectCollection/tree/main/three-cards)
+7. [Cutie Patootie](https://github.com/kingkuys2123/ReactProjectCollection/tree/main/cutie-patootie)
+8. [Complete The Lyrics](https://github.com/kingkuys2123/ReactProjectCollection/tree/main/complete-the-lyrics)
+9. [Forms](https://github.com/kingkuys2123/ReactProjectCollection/tree/main/forms)
 
 <br>
 
